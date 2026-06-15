@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurro de tu nombre santo
+
+This log tracks the cryptographic history and versioning for the song **Susurro de tu nombre santo** (susurro-de-tu-nombre-santo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T12:02:50.916336 | `v1` | `eef4406cdaf6d7a50cb0ec06e432c873ffb746a897e76550450413c042b5a75b` | `0254e14a558eb535704f5fbe6277d416ddc3af230e880505a84dcc06fcdd798b` | `2026-06-15_susurro-de-tu-nombre-santo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
