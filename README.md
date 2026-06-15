@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurro-de-tu-nombre-santo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Susurro de tu nombre santo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-tu-nombre-santo/) |
+| **Get License** | [Obtain a Music License for Susurro de tu nombre santo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-tu-nombre-santo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Oye, baby, siento el susurro de tu nombre santo
+> En la madrugada, eres tú a quien yo le canto
+> Tú me tienes loco, luciendo ese piquete
+> Acércate un poco, que la noche promete
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
